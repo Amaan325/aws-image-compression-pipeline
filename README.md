@@ -29,6 +29,11 @@ This project showcases a fully serverless image compression pipeline built entir
 - Created entirely via AWS Console
 - Uses IAM for secure permissions
 
+## 🐍 Lambda Function Code
+
+See [`lambda-code.py`](./lambda-code.py) for the full Python code used to compress images using Pillow inside AWS Lambda.
+
+
 ## 🧾 IAM Policy Example
 
 ```json
